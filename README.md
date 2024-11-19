@@ -30,13 +30,9 @@ getFreeTaxis(taxis, pickupTime, pickupPoint): Filters and returns taxis availabl
 main(): Entry point to interact with the booking system, providing options for booking and viewing details.
 Usage
 To use the system, run the main method in the Booking class:
-
-python
-Copy code
 Booking.main()
 Commands
 Once you start the program, you will see the following options:
-
 Book Taxi:
 
 Enter the Pickup Point (A-F).
